@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtawaJaya.Shell", "EtawaJaya.Shell\EtawaJaya.Shell.csproj", "{C911855E-441C-4680-92F0-2D2A6BA78550}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtawaJaya.Common", "EtawaJaya.Common\EtawaJaya.Common.csproj", "{6782F74F-1B7D-4F38-8154-E800DCF017AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C911855E-441C-4680-92F0-2D2A6BA78550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C911855E-441C-4680-92F0-2D2A6BA78550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C911855E-441C-4680-92F0-2D2A6BA78550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C911855E-441C-4680-92F0-2D2A6BA78550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6782F74F-1B7D-4F38-8154-E800DCF017AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6782F74F-1B7D-4F38-8154-E800DCF017AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6782F74F-1B7D-4F38-8154-E800DCF017AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6782F74F-1B7D-4F38-8154-E800DCF017AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
